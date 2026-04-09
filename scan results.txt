@@ -1,0 +1,19 @@
+# Nmap 7.99 scan initiated Thu Apr  9 17:32:20 2026 as: nmap -sS -oN scan_results.txt 10.83.127.0/24
+Nmap scan report for 10.83.127.217
+Host is up (0.0079s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 42:78:3F:B3:56:8A (Unknown)
+
+Nmap scan report for 10.83.127.140
+Host is up (0.00020s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3580/tcp open  nati-svrloc
+8090/tcp open  opsmessaging
+
+# Nmap done at Thu Apr  9 17:32:32 2026 -- 256 IP addresses (2 hosts up) scanned in 12.18 seconds
