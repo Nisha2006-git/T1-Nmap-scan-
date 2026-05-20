@@ -1,4 +1,4 @@
-# Task 1: Scan Your Local Network for Open Ports
+# Scan Your Local Network for Open Ports
 
 ## Objective
 To discover open ports on devices in the local network using Nmap and understand network exposure.
